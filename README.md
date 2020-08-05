@@ -12,12 +12,13 @@ The topic:
 * CustomURP(use far away fade out skybox demo to show how desing your renderer to replace URP default ForwardRenderer)
 * ReflectionWithURP(how to extend plane reflection effect with URP)
 * Other examples
+<br>
 Reference links:
-<br/>
+<br>
 https://www.slideshare.net/AkilarLiao
-<br/>
+<br>
 https://makedreamvsogre.blogspot.com/2018/10/mobilesrp.html
-<br/>
+<br>
 https://catlikecoding.com/unity/tutorials/scriptable-render-pipeline/custom-pipeline/
-<br/>
+<br>
 http://geekfaner.com/unity/blog13_SRP.html?tdsourcetag=s_pctim_aiomsg
