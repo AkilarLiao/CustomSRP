@@ -15,4 +15,4 @@ MonoBehaviour:
   m_RendererFeatures: []
   m_RendererFeatureMap: 
   m_blitShader: {fileID: 4800000, guid: d40bb2574316e6644b65e3de9878cc94, type: 3}
-  m_enableDissolveSky: 0
+  m_enableDissolveSky: 1
