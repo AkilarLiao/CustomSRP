@@ -1,4 +1,7 @@
 # CustomSRP
+![alt text](https://github.com/AkilarLiao/CustomSRP/raw/master/CustomSRP.png "Logo Title Text 1")
+<br>
+<br>
 It's include several demonstration examples project of how to customize the rendering pipeline under unity SRP.
 <br>
 The topic:
@@ -9,3 +12,5 @@ The topic:
 * CustomURP(use far away fade out skybox demo to show how desing your renderer to replace URP default ForwardRenderer)
 * ReflectionWithURP(how to extend plane reflection effect with URP)
 * Other examples
+<br>
+[How to customize renderpipeline SlideShare](https://www.slideshare.net/AkilarLiao)
