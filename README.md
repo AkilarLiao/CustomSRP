@@ -13,6 +13,5 @@ The topic:
 * ReflectionWithURP(how to extend plane reflection effect with URP)
 * Other examples
 <br>
-Reference links:
-<br>
+Reference links:  
 [I'm an inline-style link](https://www.google.com)
