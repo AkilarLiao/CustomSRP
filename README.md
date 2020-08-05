@@ -11,4 +11,8 @@ The topic:
 * ExtendURP(use a outline example to show how extend URP)
 * CustomURP(use far away fade out skybox demo to show how desing your renderer to replace URP default ForwardRenderer)
 * ReflectionWithURP(how to extend plane reflection effect with URP)
-* Other examples[I'm an inline-style link](https://www.google.com)
+* Other examples
+<br>
+Reference links:
+<br>
+[I'm an inline-style link](https://www.google.com)
