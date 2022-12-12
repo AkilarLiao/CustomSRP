@@ -30,3 +30,15 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
 aksoundengine filter=lfs diff=lfs merge=lfs -text
 akwaapiclient filter=lfs diff=lfs merge=lfs -text
+*.cs      text diff=csharp
+*.xaml    text
+*.csproj  text eol=crlf
+*.sln     text eol=crlf
+*.tt      text
+*.ps1     text
+*.cmd     text
+*.msbuild text
+*.md      text
+*.txt		text
+*.sh		text eol=lf
+*.shader  text
